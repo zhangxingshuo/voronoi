@@ -1,3 +1,0 @@
-﻿  voronoi.cpp
-c:\users\andy9\documents\visual studio 2017\projects\voronoi\voronoi\voronoi.cpp(59): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': cannot convert argument 1 from 'const char *' to 'LPCWSTR'
-  c:\users\andy9\documents\visual studio 2017\projects\voronoi\voronoi\voronoi.cpp(59): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
